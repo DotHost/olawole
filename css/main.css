@@ -2004,6 +2004,12 @@ nav a:hover {
   background: url(../img/ise.jpg) no-repeat center center/cover;
 }
 
+@media (min-width: 767px) {
+  .banner-area {
+    background: url(../img/ise2.jpg) no-repeat center center/cover;
+  }
+}
+
 .banner-area .overlay-bg {
   background: rgba(132, 96, 246, 0.4);
 }
